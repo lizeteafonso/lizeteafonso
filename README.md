@@ -8,7 +8,7 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning GitHub.
+- 🌱 I’m currently learning Git.
 - 😄 Pronouns: she/her
 
 
